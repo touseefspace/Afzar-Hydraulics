@@ -169,6 +169,6 @@ Licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Touseef Ahmed**
-📧 [touseefahmed0707@gmail.com](mailto:touseefspace@gmail.com)
+📧 [touseefspace@gmail.com](mailto:touseefspace@gmail.com)
 
 ---
